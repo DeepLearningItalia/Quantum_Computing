@@ -8,6 +8,7 @@ Il repository si compone come segue:
 - Il jupyter notebook *Grover’s search.ipynb* contiene il codice per implementare l'algoritmo di Grover per n=2 e consente l'esecuzione dello stesso su simulatore e su real device sfruttando la IBM Quantum Experience;
 - Nella cartella *Image classification* contiene due script python (*Quantum_Operators.py* e *Utils.py*) nelle quali sono definite alcune *user define functions* propedeutiche all'implementazione dell'algoritmo di Quantum Machine Learning contenuto nel jupyter notebook *Quantum Machine Learning for Image Classification.ipynb*
 
+<br><\br>
 
 Autore: 
 
